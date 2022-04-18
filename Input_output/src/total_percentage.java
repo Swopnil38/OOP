@@ -13,7 +13,7 @@ public class total_percentage {
         double percentage;
         total_mark = a+b+c;
         System.out.println("Total Marks is :" + total_mark);
-        percentage = total_mark/4;
+        percentage = total_mark/3;
         System.out.println("Total Percentage is :" + percentage);
     }
 }
