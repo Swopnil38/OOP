@@ -1,3 +1,4 @@
+<<<<<<< HEAD:Input_output/src/CUI/check_condition.java
 package CUI;
 
 import java.util.Scanner;
